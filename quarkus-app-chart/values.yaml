@@ -2,7 +2,7 @@
 replicaCount: 1
 
 image:
-  repository: nexus-repo-nexus-repository-manager:8082/repository/docker-repo/apostoliseq/test-app:1.0
+  repository: nexus-repo-nexus-repository-manager:8082/repository/docker-repo/apostoliseq/test-app
   pullPolicy: Always
   tag: "1.0"
 
